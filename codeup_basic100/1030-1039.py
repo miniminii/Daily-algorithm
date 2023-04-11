@@ -38,3 +38,5 @@ print(a ** b)
 #1039 - 실수 거듭제곱
 a,b = map(float, input().split())
 print(a ** b)
+
+
